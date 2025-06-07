@@ -1,4 +1,4 @@
-Employee_ID,AIC (unitless),MAPE (%),RMSE ($),ARIMA_order,Seasonal_order
+Employee_ID,AIC_unitless,MAPE_%,RMSE_$,ARIMA_order,Seasonal_order
 57,3584.44,1.2,233.79,"(1,1,1)","(12,1,12,12)"
 58,3356.11,0.37,63.63,"(1,1,1)","(12,1,12,12)"
 59,3575.4,11.26,2141.07,"(1,1,1)","(12,1,12,12)"
